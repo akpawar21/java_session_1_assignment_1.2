@@ -1,6 +1,11 @@
 package add;
 		import java.util.Scanner;
+	
 		
+/**
+ * @author akpawar
+ *
+ */
 public class addition {		 
 
 		   static int add(int x, int y)
