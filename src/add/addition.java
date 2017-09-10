@@ -6,7 +6,6 @@ public class addition {
 		   static int add(int x, int y)
 
 		    {
-
 		        int carry;
 
 		        while(y!=0)
